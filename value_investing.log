@@ -1,0 +1,5 @@
+2025-03-09 23:30:11,050 - INFO - Starting analysis for BC.MI
+2025-03-09 23:30:11,554 - INFO - Dati grezzi per BC.MI: {'price': 111.4, 'eps': 1.67, 'book_value': 6.412, 'profit_margin': 0.09355, 'dividend_yield': 0.82, 'total_debt': 799056000, 'total_revenue': 1216140032, 'free_cash_flow': 152522624, 'market_cap': 7882196480, 'shares_outstanding': 67950000}
+2025-03-09 23:30:11,555 - INFO - Raw data fetched for BC.MI: {'price': 111.4, 'eps': 1.67, 'book_value': 6.412, 'profit_margin': 0.09355, 'dividend_yield': 0.82, 'total_debt': 799056000, 'total_revenue': 1216140032, 'free_cash_flow': 152522624, 'market_cap': 7882196480, 'shares_outstanding': 67950000}
+2025-03-09 23:30:25,325 - INFO - Dati grezzi per BC.MI: {'price': 111.4, 'eps': 1.67, 'book_value': 6.412, 'profit_margin': 0.09355, 'dividend_yield': 0.82, 'total_debt': 799056000, 'total_revenue': 1216140032, 'free_cash_flow': 152522624, 'market_cap': 7882196480, 'shares_outstanding': 67950000}
+2025-03-09 23:32:37,858 - INFO - Analysis completed for BC.MI

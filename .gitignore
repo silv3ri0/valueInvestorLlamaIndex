@@ -1,0 +1,13 @@
+# Ambiente virtuale
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File di configurazione locale
+.env
+analysis_*.txt
+
+# IDE
+.idea/

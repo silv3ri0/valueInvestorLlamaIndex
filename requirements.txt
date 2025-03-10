@@ -1,0 +1,5 @@
+llama-index
+yfinance
+requests
+nest_asyncio
+chromadb
